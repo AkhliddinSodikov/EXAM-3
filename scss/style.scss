@@ -1,0 +1,21 @@
+@import './narmalize';
+@import './fonts';
+@import './header';
+@import './search';
+@import './with_us';
+@import './things_done';
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    max-width: 1240px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+

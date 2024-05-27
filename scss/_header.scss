@@ -1,0 +1,46 @@
+.header__container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+
+    .supplier__title{
+        font-family: 'Exo 2';
+        font-weight: 600;
+        font-size: 52px;
+        line-height: 65px;
+        color: rgba(54, 55, 56, 1);
+        width: 610px;
+        height: 119px;
+        margin-bottom: 40px;
+    }
+
+    .supplier__subtitle{
+        font-family: 'PT Sans';
+        font-size: 16px;
+        line-height: 24px;
+        color: rgba(107, 107, 108, 1);
+        margin-bottom: 40px;
+        width: 525px;
+        height: 66;
+    }
+
+    .more{
+        font-family: 'PT Sans';
+        font-weight: 700;
+        text-decoration: none;
+        font-size: 16px;
+        line-height: 24px;
+        color: rgba(54, 55, 56, 1);
+        border-bottom: 2px solid rgba(255, 206, 80, 1);
+    }
+
+}
+
+.truck__img{
+    margin-top: 109px;
+    margin-bottom: 67px;
+    width: 690px;
+    height: 626;
+}
+
